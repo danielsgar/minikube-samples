@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: mysql-configmap
 data:
-  db_url: mysql-service.database2
+  db_url: mysql-service.database
